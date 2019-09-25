@@ -1,5 +1,5 @@
 def mario
-
+  
 end
 
 def toadstool
@@ -10,3 +10,6 @@ def link
   
 end 
 
+def any_phrase
+  
+end
